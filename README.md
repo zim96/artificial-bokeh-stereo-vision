@@ -1,2 +1,7 @@
-# artificial-bokeh
-Binocular Stereo Depth Map for Artificial 'Bokeh'
+# Artificial *bokeh* using Binocular Stereo Vision
+
+## Concept
+
+## Implementation
+
+## Results
