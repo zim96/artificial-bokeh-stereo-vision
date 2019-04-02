@@ -11,6 +11,6 @@ A Jupyter Notebook written to develop and demonstrate simple artificial bokeh us
 
 ## Implementation
 
-The entire process is written in a Jupter Notebook together with widgets to allow some interaction with users. Users will be able to specify the 'Mask' range and see the blur change in real-time.
+The entire process is written in a Jupter Notebook together with widgets to allow some interaction with users. Users will be able to specify the 'Mask' range and see the blur change in real-time. Make sure to click the 'Run Interact' button to run the 'bokeh' process for the new specified range.
 
 There are 3 techniques to calculate the depth disparity which are Block Matching with Sum-of-Squared Differences, Block Matching with Normalised Cross-Correlation and Unconstrained Dynamic Programming.
